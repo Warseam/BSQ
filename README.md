@@ -14,4 +14,6 @@ For Epitech students :
 
 
 Ce BSQ passe 100% des tests.
+
+
 Attention au -42... :)
