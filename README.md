@@ -10,10 +10,13 @@ USAGE :
 
 
 
-For Epitech students : [CPE_2016_BSQ]
+For Epitech students :
 
 
 Ce BSQ passe 100% des tests.
 
 
 Attention au -42... :)
+
+
+[CPE_2016_BSQ]
