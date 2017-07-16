@@ -10,7 +10,7 @@ USAGE :
 
 
 
-For Epitech students :
+For Epitech students : [CPE_2016_BSQ]
 
 
 Ce BSQ passe 100% des tests.
