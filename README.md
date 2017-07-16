@@ -17,6 +17,3 @@ Ce BSQ passe 100% des tests.
 
 
 Attention au -42... :)
-
-
-[CPE_2016_BSQ]
